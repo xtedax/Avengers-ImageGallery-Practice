@@ -1,5 +1,5 @@
 <h1>Avengers Image Gallery</h1>
-<br>
+
 <h2>Description</h2>
 <p>This is my take on an image gallery featuring <b>The Avengers!</b> This is a pure CSS project that showcases images of the Avengers through a smooth crossfade animation. The gallery highlights the versatility of CSS, requiring no JavaScript to create visually appealing, interactive image transitions.</p>
 <p>This project demonstrates how CSS animations can elevate user experiences while maintaining lightweight, responsive design principles.</p>
