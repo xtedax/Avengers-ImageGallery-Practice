@@ -29,7 +29,7 @@ git clone https://github.com/your-username/avengers-crossfade-gallery.git
 
 <h2>Demo</h2>
 <a href="https://codepen.io/damiel/full/yLmdQRN" target="_blank">https://codepen.io/damiel/full/yLmdQRN</a>
-<a href="https://xtedax.github.io/Avengers-ImageGallery-Practice/"></a>
+<a href="https://xtedax.github.io/Avengers-ImageGallery-Practice/">https://xtedax.github.io/Avengers-ImageGallery-Practice</a>
 <br><br>
 <h2>Credits</h2>
 <ul>
