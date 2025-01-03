@@ -16,7 +16,7 @@
 <ol>
 <li>Clone the repository:</li>
 <code>
-git clone https://github.com/your-username/avengers-crossfade-gallery.git
+git clone https://github.com/xtedax/avengers-crossfade-gallery.git
 </code><br>
 <li>Open the index.html file in your browser to view the gallery.</li>
 </ol>
